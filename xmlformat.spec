@@ -9,7 +9,6 @@ Source0:	http://www.kitebird.com/software/xmlformat/%{name}-%{version}.tar.gz
 BuildRequires:	perl
 BuildRequires:	ruby
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-build
 
 %description
 xmlformat is a configurable formatter (or "pretty-printer") for XML documents.
