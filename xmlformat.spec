@@ -16,8 +16,8 @@ xmlformat is a configurable formatter (or "pretty-printer") for XML documents.
 It provides control over indentation, line-breaking, and text wrapping. These
 properties can be defined on a per-element basis.
 
-xmlformat %{version} provides improved diagnostic information when a document is
-not well-formed. (Prints line and token number, and stack trace). 
+xmlformat %{version} provides improved diagnostic information when a document
+is not well-formed. (Prints line and token number, and stack trace). 
 
 %prep
 
