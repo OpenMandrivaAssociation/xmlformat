@@ -1,7 +1,7 @@
 Summary:	XML Document Formatter
 Name:		xmlformat
 Version:	1.04
-Release:	%mkrel 1
+Release:	%mkrel 3
 License:	BSD
 Group:		Publishing
 URL:		http://www.kitebird.com/software/xmlformat/
