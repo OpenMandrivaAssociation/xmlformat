@@ -45,3 +45,27 @@ rm -fr %{buildroot}
 %doc bad* test.conf docs tests
 %{_bindir}/xmlformat.pl
 %{_bindir}/xmlformat.rb
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.04-4mdv2010.0
++ Revision: 435149
+- rebuild
+
+* Wed Jul 23 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.04-3mdv2009.0
++ Revision: 242994
+- rebuild
+- fix description-line-too-long
+- kill re-definition of %%buildroot on Pixel's request
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+* Fri Aug 24 2007 Oden Eriksson <oeriksson@mandriva.com> 1.04-1mdv2008.0
++ Revision: 70873
+- Import xmlformat
+
+
+
+* Fri Aug 24 2007 Oden Eriksson <oeriksson@mandriva.com> 1.04-1mdv2008.0
+- initial Mandriva package
