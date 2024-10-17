@@ -4,7 +4,7 @@ Version:	1.04
 Release:	5
 License:	BSD
 Group:		Publishing
-URL:		http://www.kitebird.com/software/xmlformat/
+URL:		https://www.kitebird.com/software/xmlformat/
 Source0:	http://www.kitebird.com/software/xmlformat/%{name}-%{version}.tar.gz
 BuildRequires:	perl
 BuildRequires:	ruby
