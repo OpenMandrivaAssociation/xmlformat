@@ -6,6 +6,7 @@ License:	BSD
 Group:		Publishing
 URL:		https://www.kitebird.com/software/xmlformat/
 Source0:	http://www.kitebird.com/software/xmlformat/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	perl
 BuildRequires:	ruby
 BuildArch:	noarch
